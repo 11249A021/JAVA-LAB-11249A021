@@ -12,6 +12,7 @@ public static void main(String[]args)
 {
 VariablesDemo obj1=new VariablesDemo();
 obj1.showVariables();
-System.out.println("accessing static variable via class:"+VariablesDemo.staticVar);
+System.out.println("accessing static variable via class:"+VariablesDemo.staticV
+ar);
 }
 }
